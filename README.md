@@ -1,15 +1,24 @@
+# Hi, I'm Jid Mie 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hiệp Nguyễn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmh31052005179@gmail.comnmh31052005179) 
+I’m a developer focused on building clean, modern web experiences.
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jid-mie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jid-mie&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jid-mie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## About Me
+- Building projects with **Node.js** and **Next.js**
+- Interested in scalable, maintainable web applications
+- Always learning and improving
 
----
-[![](https://visitcount.itsvg.in/api?id=jid-mie&icon=0&color=0)](https://visitcount.itsvg.in)
+## Tech Stack
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Socials
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Hiệp%20Nguyễn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abc)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmh31052005179@gmail.com)
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=jid-mie&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jid-mie&theme=dark&hide_border=true)
+
+## Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jid-mie&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
