@@ -1,4 +1,4 @@
-# Hi, I'm Jid Mie 👋
+# Hi, I'm Robin 👋
 
 I’m a developer focused on building clean, modern web experiences.
 
