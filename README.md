@@ -7,10 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Engineering+with+Next.js+%26+NestJS;Scalable+Microservices%2C+PostgreSQL%2C+MongoDB+%26+Redis;Applied+Machine+Learning%2C+Explainable+AI+(SHAP)+%26+FinTech+Analytics;2D%2F3D+Game+Systems+Architecture+in+Unity+(C%23)+%26+MCP+Tooling)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="mailto:nmh31052005179@gmail.com">
+  <a href="mailto:hiepnguyendev315@gmail.com">
     <img src="https://img.shields.io/badge/Email-nmh31052005179%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://facebook.com/Hiệp%20Nguyễn">
+  <a href="https://www.facebook.com/jidmie3015/?locale=vi_VN">
     <img src="https://img.shields.io/badge/Facebook-Hiệp%20Nguyễn-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://linkedin.com/in/abc">
